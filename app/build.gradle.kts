@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "com.example.todo_native"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.example.todo_native"
